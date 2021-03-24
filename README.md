@@ -6,7 +6,11 @@
 help me grow as an IT professional.
 
 ◾ 📫 How to reach me: 
-        □ daniela.galatan@gmail.com
+
+   □ daniela.galatan@gmail.com
+        
+        
+        
     
 
 <!---
