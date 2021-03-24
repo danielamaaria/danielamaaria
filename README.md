@@ -1,13 +1,13 @@
-◾ 👋 Hi, I’m @danielamaaria
+◾ 👋 Hi you, I’m @danielamaaria
 
-◾ 🌱 I’m currently learning more about Python and design website
+◾ 🔭 I’m currently working on improve my Python language.
+
+◾ 🌱 I’m currently learning more about WordPress, Figma.
 
 ◾ 👀 I’m interested in improving my knowledge more to gain new skills, which I believe will
 help me grow as an IT professional.
 
-◾ 📫 How to reach me: 
-
-   □ daniela.galatan@gmail.com
+◾ 📫 How to reach me:  daniela.galatan@gmail.com
         
         
         
