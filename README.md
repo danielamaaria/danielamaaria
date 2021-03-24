@@ -6,8 +6,8 @@
 help me grow as an IT professional.
 
 ◾ 📫 How to reach me: 
+    daniela.galatan@gmail.com
     
-    □ daniela.galatan28@gmail.com
 
 <!---
 danielamaaria/danielamaaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
