@@ -1,16 +1,12 @@
-◾ 👋 Hi you, I’m @danielamaaria
+👋 Hi, I’m @fdanci
 
-◾ 🔭 I’m currently working on improve my Python language.
+👀 I’m interested in software engineering
 
-◾ 🌱 I’m currently learning more about WordPress, Figma.
+🌱 I’m currently learning ASP.NET
 
-◾ 👀 I’m interested in improving my knowledge more to gain new skills, which I believe will
-help me grow as an IT professional.
-
-◾ 📫 How to reach me:  daniela.galatan@gmail.com
-        
-        
-        
+📫 How to reach me:
+        www.florindanci.me
+        florin.danci96@gmail.com
     
 
 <!---
