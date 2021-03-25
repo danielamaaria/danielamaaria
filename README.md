@@ -4,6 +4,7 @@
 
 ◾ 🌱 I’m currently learning more about WordPress, Figma.
 
+
 ◾ 👀 I’m interested in improving my knowledge more to gain new skills, which I believe will
 help me grow as an IT professional.
 
