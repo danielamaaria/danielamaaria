@@ -2,7 +2,7 @@
 
 ● 🔭 I’m currently working on improve my Python language.
 
-●🌱 I’m currently learning more about WordPress, Figma.
+●🌱 I’m currently learning more about JavaScript.
 
 ● 👀 I’m interested in improving my knowledge more to gain new skills, which I believe will help me grow as an IT professional.
 
