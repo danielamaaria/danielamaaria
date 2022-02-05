@@ -1,9 +1,6 @@
 ●👋 Hi you, I’m @danielamaaria 
-
 ● 🔭 I’m currently working on improve my Python understanding.
-
 ● 👀 I’m interested in improving my knowledge more to gain new skills, which I believe will help me grow as an IT professional.
-
 ● 📫 How to reach me:  
         daniela.galatan28@gmail.com
 
