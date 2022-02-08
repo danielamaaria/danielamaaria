@@ -1,13 +1,19 @@
-●👋 Hi you, I’m @danielamaaria 
-
-● 🔭 I’m currently working on improve my Python language.
-
-● 👀 I’m interested in improving my knowledge more to gain new skills, which I believe will help me grow as an IT professional.
-
-● 📫 How to reach me:  
-        daniela.galatan28@gmail.com
+- 👋 Hi, I’m @danielamaaria
+- 👀 I’m currently working to improve my coding skills.
+- 👯 I’m looking to collaborate on an internship where I can gain practical work experience.
+- 📫 How to reach me: 
+  * daniela.galatan28@gmail.com
 
 <!---
 danielamaaria/danielamaaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
