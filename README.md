@@ -2,7 +2,7 @@
 - 👀 I’m currently working to improve my coding skills.
 - 👯 I’m looking to collaborate on an internship where I can gain practical work experience.
 - 📫 How to reach me: 
-  * daniela-maaria@outlook.com
+  * daniela.galatann@gmail.com
 
 <!---
 danielamaaria/danielamaaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
